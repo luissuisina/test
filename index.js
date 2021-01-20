@@ -25,3 +25,4 @@ btn1.onclick = () => {
     btn2.className = 'show'
     btn1.className = 'esconder'
 }
+const hola="hola"
