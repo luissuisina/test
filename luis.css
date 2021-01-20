@@ -1,0 +1,16 @@
+body{
+    background-color: red;
+    color: #fff;
+}
+h1{
+    color:rgb(57, 40, 207)
+}
+.esconder {
+    display: none;
+  }
+  .show {
+    display: block;
+  }
+  #btn1{
+      color:blueviolet;
+  }
